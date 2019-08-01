@@ -1,0 +1,22 @@
+External Interface requirements:
+
+1:
+User Interface:
+1.User interface is designed with the help of HTML,PHP.
+External functionalities are embeded with the help of Javascript.
+An API key and Auth_Domain is required to connect HTML page to firebase management console.
+Similary API key and API secret are used for getting access to Cloudinary management console.
+
+2. Hardware Interface:
+hardware interface is mainly done with the help of Arduino-Text editor.
+Various predecates can be applied to monitor environment using real time sensed data.
+
+
+
+NON FUNCTIONAL REQUIREMENTS:
+
+1. Performance requirements:
+
+STRONG NETWORK CONNECTIVITY:
+
+
